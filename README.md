@@ -93,7 +93,7 @@ There are other public methods you can use such as -
 
 **Please click the video below to enlarge.**
 
-![Imgur](https://imgur.com/HIsDnG6)
+![Imgur](https://imgur.com/HIsDnG6.mp4)
 
 ## License
 GNU GPL v3
