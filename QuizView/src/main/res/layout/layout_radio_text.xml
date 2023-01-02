@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:text="Option 1"
+    android:fontFamily="@font/roboto_medium"
+    android:maxLines="2"
+    android:ellipsize="end"
+    android:gravity="center"
+    android:layout_marginTop="4dp"
+    android:textColor="@color/black"
+    android:paddingVertical="12dp"
+    android:textSize="15sp"
+    android:background="@drawable/bg_quiz_answer"
+    android:id="@+id/singleSelectableTv" />

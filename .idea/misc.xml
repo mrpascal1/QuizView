@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Shahid/AndroidStudioProjects/QuizView/QuizView/src/main/res/drawable/bg_answer_selected.xml" value="0.122" />
+        <entry key="..\:/Shahid/AndroidStudioProjects/QuizView/QuizView/src/main/res/drawable/bg_quiz_answer.xml" value="0.122" />
+        <entry key="..\:/Shahid/AndroidStudioProjects/QuizView/QuizView/src/main/res/font/abeezee.xml" value="0.22592592592592592" />
+        <entry key="..\:/Shahid/AndroidStudioProjects/QuizView/QuizView/src/main/res/font/abeezee_italic.xml" value="0.22592592592592592" />
+        <entry key="..\:/Shahid/AndroidStudioProjects/QuizView/QuizView/src/main/res/font/roboto.xml" value="0.22592592592592592" />
+        <entry key="..\:/Shahid/AndroidStudioProjects/QuizView/QuizView/src/main/res/font/roboto_bold.xml" value="0.22592592592592592" />
+        <entry key="..\:/Shahid/AndroidStudioProjects/QuizView/QuizView/src/main/res/font/roboto_medium.xml" value="0.22592592592592592" />
+        <entry key="..\:/Shahid/AndroidStudioProjects/QuizView/QuizView/src/main/res/layout/layout_radio_text.xml" value="0.25416666666666665" />
+        <entry key="..\:/Shahid/AndroidStudioProjects/QuizView/QuizView/src/main/res/layout/quiz_answer_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Shahid/AndroidStudioProjects/QuizView/QuizView/src/main/res/layout/quiz_question_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Shahid/AndroidStudioProjects/QuizView/QuizView/src/main/res/layout/quiz_view.xml" value="0.2" />
+        <entry key="..\:/Shahid/AndroidStudioProjects/QuizView/QuizView/src/main/res/layout/test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Shahid/AndroidStudioProjects/QuizView/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
