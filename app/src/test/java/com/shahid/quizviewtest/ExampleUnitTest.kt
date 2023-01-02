@@ -1,4 +1,4 @@
-package com.shahid.quizview
+package com.shahid.quizviewtest
 
 import org.junit.Test
 

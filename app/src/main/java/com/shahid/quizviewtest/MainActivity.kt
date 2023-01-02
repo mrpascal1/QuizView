@@ -1,9 +1,13 @@
-package com.shahid.quizview
+package com.shahid.quizviewtest
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import com.shahid.quizview.databinding.ActivityMainBinding
+import com.shahid.quizview.QuizModel
+import com.shahid.quizview.QuizOption
+import com.shahid.quizview.QuizType
+import com.shahid.quizview.SubmitClickListener
+import com.shahid.quizviewtest.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
