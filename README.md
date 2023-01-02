@@ -33,8 +33,8 @@ dependencies {
 ## Features implemented
 
 - [x] Text question
-- [x] Only Image question
-- [x] Only Image question with additional text
+- [x] Image question
+- [x] Image question with additional text
 - [x] Text based single select options
 - [ ] Image based single select options
 - [ ] Text based multi-select options 
