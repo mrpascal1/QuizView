@@ -93,7 +93,7 @@ There are other public methods you can use such as -
 
 **Please click the video below to enlarge.**
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="HIsDnG6"><a href="https://imgur.com/HIsDnG6">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Imgur](https://imgur.com/HIsDnG6)
 
 ## License
 GNU GPL v3
