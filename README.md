@@ -43,6 +43,15 @@ dependencies {
 
 ## Configuration
 
+Add to your design - 
+```xml
+<com.shahid.quizview.QuizView
+    android:id="@+id/quizView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEEEEE"/>
+```
+
 To use `QuizView`, there are 2 important methods you need to know:
 
 ```kotlin
