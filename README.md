@@ -40,6 +40,7 @@ dependencies {
 - [ ] Text based multi-select options 
 - [ ] Image based multi-select options 
 - [ ] Video question 
+- More customizations - Coming soon.
 
 ## Configuration
 
