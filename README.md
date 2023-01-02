@@ -93,7 +93,7 @@ There are other public methods you can use such as -
 
 **Please click the image below to enlarge.**
 
-<img src="https://i.imgur.com/HIsDnG6.mp4">
+<video src="https://i.imgur.com/HIsDnG6.mp4"></video>
 
 ## License
 GNU GPL v3
