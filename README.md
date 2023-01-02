@@ -30,6 +30,17 @@ dependencies {
 }
 ```
 
+## Features implemented
+
+- [x] Text question
+- [x] Only Image question
+- [x] Only Image question with additional text
+- [x] Text based single select options
+- [ ] Image based single select options
+- [ ] Text based multi-select options 
+- [ ] Image based multi-select options 
+- [ ] Video question 
+
 ## Configuration
 
 To use `QuizView`, there are 2 important methods you need to know:
