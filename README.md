@@ -91,9 +91,9 @@ There are other public methods you can use such as -
 
 ## Screenshots
 
-**Please click the image below to enlarge.**
+**Please click the video below to enlarge.**
 
-<video src="https://i.imgur.com/HIsDnG6.mp4"></video>
+[Imgur](https://imgur.com/HIsDnG6)
 
 ## License
 GNU GPL v3
