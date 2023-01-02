@@ -32,7 +32,7 @@ dependencies {
 
 ## Configuration
 
-To use QuizView, there are 2 important methods you need to know:
+To use `QuizView`, there are 2 important methods you need to know:
 
 ```kotlin
 quizView.initView() //initView takes ArrayList<QuizModel>? as a parameter
@@ -56,7 +56,7 @@ See full usage [here](https://github.com/mrpascal1/QuizView/blob/master/app/src/
 WARNING - You should always consider mapping data from your API models to this library models instead of directly using this models, 
 because this might get change in future builds.
 
-There are two in QuizView - `QuizModel` and `QuizOption`, see [here](https://github.com/mrpascal1/QuizView/blob/master/QuizView/src/main/java/com/shahid/quizview/QuizModel.kt)
+There are two in `QuizView` - `QuizModel` and `QuizOption`, see [here](https://github.com/mrpascal1/QuizView/blob/master/QuizView/src/main/java/com/shahid/quizview/QuizModel.kt)
 
 `QuizModel` -
 
@@ -89,9 +89,7 @@ There are other public methods you can use such as -
 
 `disableNextButton(isDisable: Boolean)` - Can be used to disable next button of the current quiz.
 
-## Screenshots
-
-**Please click the video below to enlarge.**
+## Demo
 
 <img src="https://i.imgur.com/kxNmW3p.gif">
 
