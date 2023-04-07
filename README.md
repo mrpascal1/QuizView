@@ -36,6 +36,7 @@ dependencies {
 - [x] Image question
 - [x] Image question with additional text
 - [x] Text based single select options
+- [x] Dynamic drawables(styles) for buttons
 - [ ] Image based single select options
 - [ ] Text based multi-select options 
 - [ ] Image based multi-select options 
@@ -106,9 +107,30 @@ data class QuizOption(
 
 There are other public methods you can use such as -
 
+## Buttons States
+
 `disablePreviousButton(isDisable: Boolean)` - Can be used to disable previous button of the current quiz.
 
 `disableNextButton(isDisable: Boolean)` - Can be used to disable next button of the current quiz.
+
+## Buttons Styling
+`setSubmitButtonDrawables(@DrawableRes enabledDrawable: Int, @DrawableRes disabledDrawable: Int)` - Can be used to change drawable of submit button
+
+`setNextButtonDrawable(@DrawableRes enabledDrawable: Int, @DrawableRes disabledDrawable: Int)` - Can be used to change drawable of next button
+
+`setPreviousButtonDrawable(@DrawableRes enabledDrawable: Int, @DrawableRes disabledDrawable: Int)` - Can be used to change drawable of previous button
+
+`setSubmitButtonTextColor(@ColorRes enabledTextColor: Int, @ColorRes disabledTextColor: Int)` - Can be used to change text color of submit button
+
+`setNextButtonTextColor(@ColorRes enabledTextColor: Int, @ColorRes disabledTextColor: Int)` - Can be used to change text color of next button
+
+`setPreviousButtonTextColor(@ColorRes enabledTextColor: Int, @ColorRes disabledTextColor: Int)` - Can be used to change text color of previous button
+
+`setSubmitTitle(title: String)` - Can be used to change text of submit button
+
+`setNextTitle(title: String)` - Can be used to change text of next button
+
+`setPreviousTitle(title: String)` - Can be used to change text of previous button
 
 ## Demo
 
