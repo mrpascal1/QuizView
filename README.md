@@ -26,7 +26,7 @@ Add this to your module's `build.gradle` file:
 ```gradle
 dependencies {
 	...
-	implementation 'com.github.mrpascal1:QuizView:1.0.0'
+	implementation 'com.github.mrpascal1:QuizView:1.1.0'
 }
 ```
 
