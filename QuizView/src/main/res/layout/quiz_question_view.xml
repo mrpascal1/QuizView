@@ -38,16 +38,17 @@
             android:layout_width="match_parent"
             android:layout_height="150dp"
             android:adjustViewBounds="true"/>
+
             <TextView
                 android:id="@+id/imageQuestionTv"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/roboto_medium"
                 android:gravity="center"
-                android:textSize="16sp"
+                android:padding="4dp"
                 android:textColor="@color/black"
-                tools:text="What is Android? Are you aware of it?"
-                android:padding="4dp"/>
+                android:textSize="16sp"
+                tools:text="What is Android? Are you aware of it?" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
