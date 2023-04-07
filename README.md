@@ -36,7 +36,7 @@ dependencies {
 - [x] Image question
 - [x] Image question with additional text
 - [x] Text based single select options
-- [x] Dynamic drawables(styles) for buttons
+- [x] Dynamic drawables for buttons
 - [ ] Image based single select options
 - [ ] Text based multi-select options 
 - [ ] Image based multi-select options 
